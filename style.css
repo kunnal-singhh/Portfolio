@@ -143,6 +143,7 @@ nav a:hover{
 .content{ 
     text-align: justify;
     color:#a0a0a0;
+    hyphens: auto;
 }
 #about{ 
     margin-bottom: 30px;  
